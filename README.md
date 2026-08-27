@@ -227,21 +227,41 @@ timeline
 
 <br/>
 
-## 📈 GitHub Analytics
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ksapan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=4F46E5&text_color=c9d1d9&count_private=true&cache_seconds=1800" alt="Sapan's GitHub Stats" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=Ksapan&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=4F46E5&currStreakLabel=06B6D4" alt="Sapan's Streak" width="48%" />
+<a href="https://github.com/Ksapan">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ksapan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"
+    alt="Sapan's GitHub Stats"
+    width="49%"
+  />
+</a>
 
-<br/>
+<a href="https://github.com/Ksapan">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksapan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"
+    alt="Sapan's Top Languages"
+    width="49%"
+  />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksapan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ksapan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=4F46E5&point=ffffff" alt="Contribution Graph" width="48%" />
+</div>
 
-<br/><br/>
+<br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ksapan&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies" width="90%" />
+<div align="center">
+
+<a href="https://github.com/Ksapan">
+  <img
+    src="https://streak-stats.demolab.com/?user=Ksapan&theme=tokyonight&hide_border=true&background=0D1117"
+    alt="Sapan's GitHub Streak"
+    width="70%"
+  />
+</a>
 
 </div>
 
