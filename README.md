@@ -1,25 +1,36 @@
 <div align="center">
 
-<!-- Animated Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,25:1E1B4B,50:4F46E5,75:06B6D4,100:0B0F19&height=290&section=header&text=Sapan%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20Engineer%20•%20Agentic%20AI%20Architect%20•%20Full%20Stack%20Builder&descAlignY=52&descSize=17" width="100%" />
+<!-- Layered animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,20:1E1B4B,45:4F46E5,70:7C3AED,100:06B6D4&height=260&section=header" width="100%" />
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=23&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Generative+AI+%26+Agentic+Systems+Engineer;RAG+Pipelines+%7C+LangChain+%7C+LangGraph;Full+Stack+MERN+%26+TypeScript+Architect;Cloud-Native+%7C+Docker+%7C+AWS+%7C+CI%2FCD" />
+<img src="https://github.com/Ksapan.png" width="130" height="130" style="border-radius:50%;border:3px solid #06B6D4;margin-top:-190px;" />
+
+<h1 align="center" style="margin-top:8px;">Sapan Kumar</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Generative+AI+%26+Agentic+Systems+Engineer;RAG+Pipelines+%7C+LangChain+%7C+LangGraph;Full+Stack+MERN+%26+TypeScript+Architect;Cloud-Native+%7C+Docker+%7C+AWS+%7C+CI%2FCD" />
 
 <br/>
 
-<!-- Badge row -->
-<a href="https://www.linkedin.com/in/sapankumar55/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ksapan73@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Ksapan"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://sapan-portfolio-gfvx-468.velyf-sapans-projects-1fd4a6d7.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF007F?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<!-- Quick-glance strip -->
+<img src="https://img.shields.io/badge/📍_Location-India-0B0F19?style=for-the-badge&labelColor=1E1B4B&color=06B6D4" />
+<img src="https://img.shields.io/badge/💼_Experience-1.5%2B_Years-0B0F19?style=for-the-badge&labelColor=1E1B4B&color=4F46E5" />
+<img src="https://img.shields.io/badge/🟢_Status-Open_to_Work-0B0F19?style=for-the-badge&labelColor=1E1B4B&color=06B6D4" />
+<img src="https://img.shields.io/badge/⚡_Response-%3C24hrs-0B0F19?style=for-the-badge&labelColor=1E1B4B&color=4F46E5" />
 
 <br/><br/>
 
-<!-- Live stat badges -->
+<!-- Social row -->
+<a href="https://www.linkedin.com/in/sapankumar55/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:ksapan73@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/Ksapan"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://sapan-portfolio-gfvx-468.velyf-sapans-projects-1fd4a6d7.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF007F?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
+<a href="tel:+919631705894"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+<br/><br/>
+
+<!-- Live counters -->
 <img src="https://komarev.com/ghpvc/?username=Ksapan&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Ksapan?style=for-the-badge&color=4F46E5&label=FOLLOWERS" />
-<img src="https://img.shields.io/badge/OPEN_TO-Full--Time_%2F_Freelance-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Ksapan?style=for-the-badge&color=4F46E5&label=FOLLOWERS&labelColor=1E1B4B" />
 
 </div>
 
@@ -223,28 +234,27 @@ timeline
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ksapan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=4F46E5&text_color=c9d1d9&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ksapan&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=4F46E5&currStreakLabel=06B6D4" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ksapan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=4F46E5&text_color=c9d1d9&count_private=true&cache_seconds=1800" alt="Sapan's GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ksapan&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=4F46E5&currStreakLabel=06B6D4" alt="Sapan's Streak" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksapan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=c9d1d9&langs_count=8" height="165" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ksapan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=4F46E5&point=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksapan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ksapan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=4F46E5&point=ffffff" alt="Contribution Graph" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ksapan&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ksapan&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies" width="90%" />
 
 </div>
 
-> 💡 If any card above shows blank, it usually means GitHub's stats API is rate-limited or cold-starting — refresh the page after a few seconds. These are all live, auto-updating (no manual edits needed).
+> ⚠️ **These cards only render live on GitHub itself** (they're generated on-the-fly by third-party services reading GitHub's API). They will show as broken images in any file preview, code viewer, PDF export, or non-GitHub markdown renderer — including this chat. Paste this file as `README.md` into a repo named exactly `Ksapan` (your username) and view it on **github.com/Ksapan** — that's the only place these will display correctly.
 
 <details>
 <summary><b>🐍 Bonus: animated contribution snake (one-time setup)</b></summary>
 <br/>
 
-1. Create a repo named exactly `Ksapan` (same as your username) if you haven't already.
-2. Add `.github/workflows/snake.yml` with:
+1. In your `Ksapan/Ksapan` repo, add `.github/workflows/snake.yml`:
 
 ```yaml
 name: generate snake
@@ -275,7 +285,7 @@ jobs:
       - uses: actions/deploy-pages@v3
 ```
 
-3. Embed the output once it runs:
+2. Once it runs once, embed the output:
 
 ```md
 ![snake](https://raw.githubusercontent.com/Ksapan/Ksapan/output/dist/snake-dark.svg)
@@ -309,9 +319,16 @@ jobs:
 
 > *"I engineer intelligent, autonomous systems that bridge traditional SaaS architecture with production-grade Generative AI."*
 
+<br/>
+
 <table>
 <tr>
-<td>
+<td width="18%" align="center">
+<img src="https://github.com/Ksapan.png" width="110" height="110" style="border-radius:12px;border:2px solid #06B6D4;" />
+<br/><br/>
+<code>● ONLINE</code>
+</td>
+<td width="82%">
 
 ```text
 OPERATOR      : Sapan Kumar
