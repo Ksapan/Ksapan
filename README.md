@@ -266,52 +266,6 @@ timeline
 </div>
 
 
-<details>
-<summary><b>🐍 Bonus: animated contribution snake (one-time setup)</b></summary>
-<br/>
-
-1. In your `Ksapan/Ksapan` repo, add `.github/workflows/snake.yml`:
-
-```yaml
-name: generate snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Ksapan
-          outputs: dist/snake-dark.svg?palette=github-dark
-      - uses: actions/upload-pages-artifact@v2
-        with:
-          path: dist
-  deploy:
-    needs: generate
-    runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: write
-    steps:
-      - uses: actions/deploy-pages@v3
-```
-
-2. Once it runs once, embed the output:
-
-```md
-![snake](https://raw.githubusercontent.com/Ksapan/Ksapan/output/dist/snake-dark.svg)
-```
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=4,20,30,80&height=2&section=header" width="100%" />
-
-<br/>
 
 ## 🎓 Education & Certifications
 
