@@ -116,38 +116,34 @@ I'm a Software Engineer who works at the intersection of **Generative AI** and *
 
 ## 🏗️ Featured Builds
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="12">
 <tr>
 <td width="50%" valign="top">
 
-### 🕵️ AI on Hunt (AOH)
+### 🕵️ AI on Hunt <sub>(AOH)</sub>
 **Agentic AI Talent Acquisition Platform**
 
-Semantic search + RAG to match candidates to jobs, structured resume-to-JSON extraction, multi-tenant RBAC, and a Chrome Extension that autofills external ATS forms via backend AI APIs.
+> Semantic search + RAG matching candidates to jobs, structured resume-to-JSON extraction, multi-tenant RBAC, and a Chrome Extension that autofills external ATS forms via backend AI APIs.
 
-`LangChain` `OpenAI` `RAG` `pgvector` `Node.js` `React.js` `MongoDB`
+![LangChain](https://img.shields.io/badge/-LangChain-1a1a2e?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-1a1a2e?style=flat-square) ![RAG](https://img.shields.io/badge/-RAG-1a1a2e?style=flat-square) ![pgvector](https://img.shields.io/badge/-pgvector-1a1a2e?style=flat-square) ![Node.js](https://img.shields.io/badge/-Node.js-1a1a2e?style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-1a1a2e?style=flat-square)
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### 🦉 AutomationOwl
 **AI Agent & Distributed Workflow Platform**
 
-Multi-step AI Agent tool-calling with state + memory across sessions, Redis-backed BullMQ queues for retries/rate-limiting, Dockerized microservices on AWS EC2, event-driven webhook ingestion.
+> Multi-step AI Agent tool-calling with state + memory across sessions, Redis-backed BullMQ queues for retries and rate-limiting, Dockerized microservices on AWS EC2, event-driven webhook ingestion.
 
-`LangGraph` `Vector DB` `Redis` `BullMQ` `Docker` `AWS EC2`
+![LangGraph](https://img.shields.io/badge/-LangGraph-1a1a2e?style=flat-square) ![Vector_DB](https://img.shields.io/badge/-Vector_DB-1a1a2e?style=flat-square) ![Redis](https://img.shields.io/badge/-Redis-1a1a2e?style=flat-square) ![BullMQ](https://img.shields.io/badge/-BullMQ-1a1a2e?style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-1a1a2e?style=flat-square) ![AWS_EC2](https://img.shields.io/badge/-AWS_EC2-1a1a2e?style=flat-square)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 ### 🎤 AI Interview Prep App
 **Real-Time Voice-Based AI Evaluator**
 
-Low-latency voice pipelines with real-time speech/text models and instant analytics on soft-skills and technical accuracy.
+> Low-latency voice pipelines with real-time speech/text models, delivering instant analytics on soft-skills and technical accuracy.
 
-`Next.js` `Firebase` `Voice AI` `LLM APIs`
+![Next.js](https://img.shields.io/badge/-Next.js-1a1a2e?style=flat-square) ![Firebase](https://img.shields.io/badge/-Firebase-1a1a2e?style=flat-square) ![Voice_AI](https://img.shields.io/badge/-Voice_AI-1a1a2e?style=flat-square) ![LLM_APIs](https://img.shields.io/badge/-LLM_APIs-1a1a2e?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -155,31 +151,27 @@ Low-latency voice pipelines with real-time speech/text models and instant analyt
 ### 🧘 YogLiving
 **Conversational AI Booking Platform**
 
-Multi-turn LLM chatbot with context memory and guardrails, real-time slot allocation, and Razorpay webhook reconciliation.
+> Multi-turn LLM chatbot with context memory and domain guardrails, real-time transactional slot allocation, and Razorpay webhook reconciliation.
 
-`Next.js` `Node.js` `MongoDB` `Razorpay` `LLM Chatbot`
+![Next.js](https://img.shields.io/badge/-Next.js-1a1a2e?style=flat-square) ![Node.js](https://img.shields.io/badge/-Node.js-1a1a2e?style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-1a1a2e?style=flat-square) ![Razorpay](https://img.shields.io/badge/-Razorpay-1a1a2e?style=flat-square) ![LLM_Chatbot](https://img.shields.io/badge/-LLM_Chatbot-1a1a2e?style=flat-square)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 ### 🧾 Payroll & Enterprise ERP
 **Automated Financial & HR Scheduler**
 
-Statutory compliance engines (PF, PT, ESIC, TDS), geolocation attendance tracking, automated PDF payslip generation.
+> Statutory compliance calculation engines (PF, PT, ESIC, TDS), geolocation-verified attendance tracking, and automated PDF payslip generation.
 
-`React.js` `Node.js` `MongoDB` `PostgreSQL` `JWT`
+![React.js](https://img.shields.io/badge/-React.js-1a1a2e?style=flat-square) ![Node.js](https://img.shields.io/badge/-Node.js-1a1a2e?style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-1a1a2e?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a1a2e?style=flat-square) ![JWT](https://img.shields.io/badge/-JWT-1a1a2e?style=flat-square)
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### 🚗 AI Auto Parts
 **Cognitive Search E-Commerce Engine**
 
-Vector-embedding-powered semantic search for parts discovery with granular admin catalog controls.
+> Vector-embedding-powered semantic search for parts discovery, with granular admin controls for catalog optimization.
 
-`Next.js` `Node.js` `MongoDB` `OpenAI`
+![Next.js](https://img.shields.io/badge/-Next.js-1a1a2e?style=flat-square) ![Node.js](https://img.shields.io/badge/-Node.js-1a1a2e?style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-1a1a2e?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-1a1a2e?style=flat-square)
 
 </td>
 </tr>
@@ -231,22 +223,28 @@ timeline
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ksapan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=4F46E5&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ksapan&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=4F46E5" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ksapan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=4F46E5&text_color=c9d1d9&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ksapan&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=4F46E5&currStreakLabel=06B6D4" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksapan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ksapan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=4F46E5&point=ffffff" width="49%" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksapan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=c9d1d9&langs_count=8" height="165" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ksapan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=4F46E5&point=ffffff" height="165" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ksapan&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ksapan&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="95%" />
 
 </div>
 
-<details>
-<summary><b>🐍 Add the animated contribution snake (setup)</b></summary>
+> 💡 If any card above shows blank, it usually means GitHub's stats API is rate-limited or cold-starting — refresh the page after a few seconds. These are all live, auto-updating (no manual edits needed).
 
-Add this GitHub Action (`.github/workflows/snake.yml`) to your profile repo to generate an animated snake that eats your contribution graph — then embed the output image below.
+<details>
+<summary><b>🐍 Bonus: animated contribution snake (one-time setup)</b></summary>
+<br/>
+
+1. Create a repo named exactly `Ksapan` (same as your username) if you haven't already.
+2. Add `.github/workflows/snake.yml` with:
 
 ```yaml
 name: generate snake
@@ -277,7 +275,8 @@ jobs:
       - uses: actions/deploy-pages@v3
 ```
 
-Then embed it:
+3. Embed the output once it runs:
+
 ```md
 ![snake](https://raw.githubusercontent.com/Ksapan/Ksapan/output/dist/snake-dark.svg)
 ```
@@ -300,6 +299,8 @@ Then embed it:
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=4,20,30,80&height=2&section=header" width="100%" />
+
 <br/>
 
 ## 🖥️ System Terminal
@@ -308,29 +309,39 @@ Then embed it:
 
 > *"I engineer intelligent, autonomous systems that bridge traditional SaaS architecture with production-grade Generative AI."*
 
-</div>
+<table>
+<tr>
+<td>
 
 ```text
-               .---.           OPERATOR: Sapan Kumar
-              /     \          ROLE: AI/ML Engineer & Full Stack Architect
-              \  O  /          KERNEL: LangChain / LangGraph / Node.js Engine
-        _..__  `---'           UPTIME: 24/7 Autopilot
-      .'     `-.               ENV: AWS · Docker · Nginx · CI/CD
-     /          \              AI_BRAIN: GPT-4o · Claude · Gemini 1.5 Pro
-    |   Ksapan   |             VECTORS: Pinecone · ChromaDB · Qdrant · pgvector
-    |            |             FOCUS: Agentic AI, RAG Pipelines & Scalable SaaS
-     \          /
-      `._    _.'               LANGUAGES: JS · TS · Python · Java · SQL · Bash
-         `---'                 DATABASES: MongoDB · PostgreSQL · MySQL · Redis
+OPERATOR      : Sapan Kumar
+ROLE          : AI/ML Engineer & Full Stack Architect
+KERNEL        : LangChain · LangGraph · Node.js Engine
+UPTIME        : 24/7 Autopilot
+ENV           : AWS · Docker · Nginx · CI/CD
+AI_BRAIN      : GPT-4o · Claude · Gemini 1.5 Pro
+VECTORS       : Pinecone · ChromaDB · Qdrant · pgvector
+FOCUS         : Agentic AI, RAG Pipelines & Scalable SaaS
+LANGUAGES     : JS · TS · Python · Java · SQL · Bash
+DATABASES     : MongoDB · PostgreSQL · MySQL · Redis
+STATUS        : ● EXECUTING_AUTOMATION_QUEUES...
 ```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 ```javascript
 const currentTask = {
-  ai_ml: ["LangChain", "LangGraph", "RAG Pipelines", "Vector Search", "Prompt Engineering"],
-  backend: ["Node.js", "Express.js", "TypeScript", "Microservices", "BullMQ"],
+  ai_ml:    ["LangChain", "LangGraph", "RAG Pipelines", "Vector Search", "Prompt Engineering"],
+  backend:  ["Node.js", "Express.js", "TypeScript", "Microservices", "BullMQ"],
   frontend: ["React.js", "Next.js", "Redux Toolkit", "Tailwind CSS"],
-  cloud: ["AWS EC2/S3", "Docker", "Nginx", "CI/CD"],
-  status: "EXECUTING_AUTOMATION_QUEUES..."
+  cloud:    ["AWS EC2/S3", "Docker", "Nginx", "CI/CD"],
+  status:   "EXECUTING_AUTOMATION_QUEUES..."
 };
 ```
 
