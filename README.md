@@ -1,13 +1,10 @@
 <div align="center">
 
-<!-- Layered animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,20:1E1B4B,45:4F46E5,70:7C3AED,100:06B6D4&height=260&section=header" width="100%" />
+<!-- Animated gradient header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,20:1E1B4B,45:4F46E5,70:7C3AED,100:06B6D4&height=270&section=header&text=SAPAN%20KUMAR&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20•%20Agentic%20AI%20Architect%20•%20Full%20Stack%20Builder&descAlignY=58&descSize=17" width="100%" />
 
-<img src="https://github.com/Ksapan.png" width="130" height="130" style="border-radius:50%;border:3px solid #06B6D4;margin-top:-190px;" />
-
-<h1 align="center" style="margin-top:8px;">Sapan Kumar</h1>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Generative+AI+%26+Agentic+Systems+Engineer;RAG+Pipelines+%7C+LangChain+%7C+LangGraph;Full+Stack+MERN+%26+TypeScript+Architect;Cloud-Native+%7C+Docker+%7C+AWS+%7C+CI%2FCD" />
+<!-- Multi-line typing animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=23&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&lines=Generative+AI+%26+Agentic+Systems+Engineer;RAG+Pipelines+%7C+LangChain+%7C+LangGraph;Full+Stack+MERN+%26+TypeScript+Architect;Cloud-Native+%7C+Docker+%7C+AWS+%7C+CI%2FCD" />
 
 <br/>
 
@@ -235,7 +232,7 @@ timeline
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ksapan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=4F46E5&text_color=c9d1d9&count_private=true&cache_seconds=1800" alt="Sapan's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ksapan&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=4F46E5&currStreakLabel=06B6D4" alt="Sapan's Streak" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Ksapan&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=4F46E5&currStreakLabel=06B6D4" alt="Sapan's Streak" width="48%" />
 
 <br/>
 
@@ -248,7 +245,9 @@ timeline
 
 </div>
 
-> ⚠️ **These cards only render live on GitHub itself** (they're generated on-the-fly by third-party services reading GitHub's API). They will show as broken images in any file preview, code viewer, PDF export, or non-GitHub markdown renderer — including this chat. Paste this file as `README.md` into a repo named exactly `Ksapan` (your username) and view it on **github.com/Ksapan** — that's the only place these will display correctly.
+> ⚠️ **Seeing broken image icons above, even on github.com?** I swapped the dead `herokuapp.com` streak-stats link for a maintained mirror (`streak-stats.demolab.com`), which should fix it in most cases. If a card is still broken after that: these are free public services (not hosted by GitHub or Anthropic) and occasionally get rate-limited or go down entirely. Two reliable fixes:
+> 1. Wait a few minutes and hard-refresh — usually just rate-limiting.
+> 2. **Self-host it** (permanent fix, 5 min setup): fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) or [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) to your own Vercel account and point the `<img>` src at your own deployment URL instead of the shared public one.
 
 <details>
 <summary><b>🐍 Bonus: animated contribution snake (one-time setup)</b></summary>
@@ -321,32 +320,23 @@ jobs:
 
 <br/>
 
-<table>
-<tr>
-<td width="18%" align="center">
-<img src="https://github.com/Ksapan.png" width="110" height="110" style="border-radius:12px;border:2px solid #06B6D4;" />
-<br/><br/>
-<code>● ONLINE</code>
-</td>
-<td width="82%">
-
 ```text
-OPERATOR      : Sapan Kumar
-ROLE          : AI/ML Engineer & Full Stack Architect
-KERNEL        : LangChain · LangGraph · Node.js Engine
-UPTIME        : 24/7 Autopilot
-ENV           : AWS · Docker · Nginx · CI/CD
-AI_BRAIN      : GPT-4o · Claude · Gemini 1.5 Pro
-VECTORS       : Pinecone · ChromaDB · Qdrant · pgvector
-FOCUS         : Agentic AI, RAG Pipelines & Scalable SaaS
-LANGUAGES     : JS · TS · Python · Java · SQL · Bash
-DATABASES     : MongoDB · PostgreSQL · MySQL · Redis
-STATUS        : ● EXECUTING_AUTOMATION_QUEUES...
+┌─────────────────────────────────────────────────────────────┐
+│  ● ● ●   ksapan@quantum-cluster: ~                           │
+├─────────────────────────────────────────────────────────────┤
+│  OPERATOR      : Sapan Kumar                                 │
+│  ROLE          : AI/ML Engineer & Full Stack Architect       │
+│  KERNEL        : LangChain · LangGraph · Node.js Engine      │
+│  UPTIME        : 24/7 Autopilot                              │
+│  ENV           : AWS · Docker · Nginx · CI/CD                │
+│  AI_BRAIN      : GPT-4o · Claude · Gemini 1.5 Pro             │
+│  VECTORS       : Pinecone · ChromaDB · Qdrant · pgvector      │
+│  FOCUS         : Agentic AI, RAG Pipelines & Scalable SaaS    │
+│  LANGUAGES     : JS · TS · Python · Java · SQL · Bash         │
+│  DATABASES     : MongoDB · PostgreSQL · MySQL · Redis         │
+│  STATUS        : ● EXECUTING_AUTOMATION_QUEUES...             │
+└─────────────────────────────────────────────────────────────┘
 ```
-
-</td>
-</tr>
-</table>
 
 </div>
 
