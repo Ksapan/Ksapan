@@ -265,9 +265,6 @@ timeline
 
 </div>
 
-> ⚠️ **Seeing broken image icons above, even on github.com?** I swapped the dead `herokuapp.com` streak-stats link for a maintained mirror (`streak-stats.demolab.com`), which should fix it in most cases. If a card is still broken after that: these are free public services (not hosted by GitHub or Anthropic) and occasionally get rate-limited or go down entirely. Two reliable fixes:
-> 1. Wait a few minutes and hard-refresh — usually just rate-limiting.
-> 2. **Self-host it** (permanent fix, 5 min setup): fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) or [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) to your own Vercel account and point the `<img>` src at your own deployment URL instead of the shared public one.
 
 <details>
 <summary><b>🐍 Bonus: animated contribution snake (one-time setup)</b></summary>
